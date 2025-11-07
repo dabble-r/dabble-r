@@ -7,7 +7,7 @@
 
 ## About me ...
 
-<table width="100%" style="font-size: 14px;">
+<table width="100%" style="font-size: 18px;">
   <tr>
     <td width="50%" align="center" valign="middle">
           <!-- Left side -->
