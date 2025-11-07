@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div>
-  <img src="/assets/imgs/pcScape.jpeg" alt="profile main" width="100%"/><br> 
+  <img src="/assets/imgs/pcScape.jpeg" alt="profile main" width="100%" height="75%"/><br> 
 </div>
 
 ## About me ...
