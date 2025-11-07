@@ -30,11 +30,12 @@ public class Main {
           <!-- Left side -->
       <img src="https://avatars.githubusercontent.com/u/9919?s=150&v=4" alt="Profile Image" width="120"/><br>
           **Hi, I'm Nicholas!**<br>
-          🔭 Educator | Creator | Programmer<br>
-          🌱 Backend: Python, Java<br>
-          👯 Frontend: JS, React, Vue, HTML, CSS<br>
-          🤔 Data: SQL, SQLite, R, Pandas<br>
-          💬 Tools: Linux, Git
+          🔭  Educator | Creator | Programmer<br>
+          🌱  Backend: Python, Java<br>
+          👯  Frontend: JS, React, Vue, HTML, CSS<br>
+          📊  Infra: MongoDB<br>
+          🤔  Data: SQL, SQLite, R, Pandas<br>
+          💬  Tools: Linux, Git
     </td>
     <td width="50%" align="center" valign="middle">
           <!-- Right side -->
