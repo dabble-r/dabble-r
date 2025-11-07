@@ -24,7 +24,7 @@ public class Main {
 }
 
 
-<table width="100%" text-align:"left">
+<table width="100%" style="text-align:left">
   <tr>
     <td width="50%" align="center" valign="middle">
           <!-- Left side -->
