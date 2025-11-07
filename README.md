@@ -24,7 +24,7 @@ public class Main {
 }
 
 
-<table width="100%">
+<table width="100%" text-align:"left">
   <tr>
     <td width="50%" align="center" valign="middle">
           <!-- Left side -->
@@ -37,7 +37,7 @@ public class Main {
           🤔  Data: SQL, SQLite, R, Pandas<br>
           💬  Tools: Linux, Git
     </td>
-    <td width="50%" align="center" valign="middle" text-align:"left">
+    <td width="50%" align="center" valign="middle" >
           <!-- Right side -->
           import java.util.HashMap;<br>
           public class Main {<br>
