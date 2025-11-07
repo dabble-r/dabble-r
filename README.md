@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<div>
+<div style="border-radius:10px;">
   <img src="/assets/imgs/pcScape.jpeg" alt="profile main" width="100%" height="35%" style="animation-name: fadeInAnimation; animation-duration: 3s;"/>
 </div>
 
@@ -19,19 +19,19 @@
           🤔  Data: SQL, SQLite, R, Pandas<br>
           💬  Tools: Linux, Git<br>
     </td>
-    <td width="50%" align="center" valign="middle" style="font-size: 22px;">
+    <td width="50%" align="center" valign="middle">
           <!-- Right side -->
-          <pre align="left">
+          <pre align="left" style="font-size:14px;">
           import java.util.HashMap;
           public class Main {
             public static void main(String[] args) {
               HashMap<String, String> aboutMe = new HashMap<String, String>();
-              <span style="font-size: 14px;">aboutMe.put("me", "educator -- creator -- programmer");</span>
-              <span style="font-size: 14px;">aboutMe.put("backend", "Python -- Java");</span>
-              <span style="font-size: 14px;">aboutMe.put("frontend", "JS -- HTML -- CSS -- React -- Vue");</span>
-              <span style="font-size: 14px;">aboutMe.put("infra", "MongoDB");</span>
-              <span style="font-size: 14px;">aboutMe.put("data", "SQL -- R -- Numpy -- Pandas");</span>
-              <span style="font-size: 14px;">aboutMe.put("tool", "Linux -- Git);</span>
+              aboutMe.put("me", "educator -- creator -- programmer");
+              aboutMe.put("backend", "Python -- Java");
+              aboutMe.put("frontend", "JS -- HTML -- CSS -- React -- Vue");
+              aboutMe.put("infra", "MongoDB");
+              aboutMe.put("data", "SQL -- R -- Numpy -- Pandas");
+              aboutMe.put("tool", "Linux -- Git);
               System.out.println(aboutMe);
             }
           }
