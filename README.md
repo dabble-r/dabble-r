@@ -37,7 +37,7 @@ public class Main {
           🤔  Data: SQL, SQLite, R, Pandas<br>
           💬  Tools: Linux, Git
     </td>
-    <td width="50%" align="center" valign="middle">
+    <td width="50%" align="center" valign="middle" text-align:"left">
           <!-- Right side -->
           import java.util.HashMap;<br>
           public class Main {<br>
