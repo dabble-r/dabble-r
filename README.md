@@ -7,7 +7,7 @@
 
 ## About me ...
 
-<table width="100%" style="font-size: 18px;">
+<table width="100%" >
   <tr>
     <td width="50%" align="center" valign="middle">
           <!-- Left side -->
@@ -26,12 +26,12 @@
           public class Main {
             public static void main(String[] args) {
               HashMap<String, String> aboutMe = new HashMap<String, String>();
-              aboutMe.put("me", "educator -- creator -- programmer");
-              aboutMe.put("backend", "Python -- Java");
-              aboutMe.put("frontend", "JS -- HTML -- CSS -- React -- Vue");
-              aboutMe.put("infra", "MongoDB");
-              aboutMe.put("data", "SQL -- R -- Numpy -- Pandas");
-              aboutMe.put("tool", "Linux -- Git);
+              <span style="font-size: 14px;">aboutMe.put("me", "educator -- creator -- programmer");</span>
+              <span style="font-size: 14px;">aboutMe.put("backend", "Python -- Java");</span>
+              <span style="font-size: 14px;">aboutMe.put("frontend", "JS -- HTML -- CSS -- React -- Vue");</span>
+              <span style="font-size: 14px;">aboutMe.put("infra", "MongoDB");</span>
+              <span style="font-size: 14px;">aboutMe.put("data", "SQL -- R -- Numpy -- Pandas");</span>
+              <span style="font-size: 14px;">aboutMe.put("tool", "Linux -- Git);</span>
               System.out.println(aboutMe);
             }
           }
