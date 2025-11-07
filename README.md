@@ -4,26 +4,6 @@
 
 ## About me ...
 
-import java.util.HashMap;
-
-public class Main {
-  public static void main(String[] args) {
-    
-    HashMap<String, String> aboutMe = new HashMap<String, String>();
-
-    aboutMe.put("me", "educator", "creator", "programmer");
-    aboutMe.put("backend", "Python", "Java");
-    aboutMe.put("frontend", "JS", "HTML", "CSS", "React", "Vue");
-    aboutMe.put("infra", "MongoDB");
-    aboutMe.put("data", "SQL", "R", "Numpy", "Pandas");
-    aboutMe.put("tool", "Linux", "Git); 
-    
-
-    System.out.println(aboutMe);
-  }
-}
-
-
 <table width="100%" >
   <tr>
     <td width="50%" align="center" valign="middle">
