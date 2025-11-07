@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-**dabble-r** 
+<div>
+  <img src="/assets/imgs/pcScape.jpeg" alt="profile main" width="100%"/><br> 
+</div>
 
 ## About me ...
 
