@@ -28,7 +28,7 @@ public class Main {
   <tr>
     <td width="50%" align="center" valign="middle">
           <!-- Left side -->
-      <img src="https://avatars.githubusercontent.com/u/9919?s=150&v=4" alt="Profile Image" width="120"/><br>
+      <img src="/assets/imgs/descartesCode.jpg" alt="Profile Image" width="120"/><br>
           <b>Hi, I'm Nicholas!<b><br>
           🔭  Educator | Creator | Programmer<br>
           🌱  Backend: Python, Java<br>
@@ -39,16 +39,20 @@ public class Main {
     </td>
     <td width="50%" align="center" valign="middle" >
           <!-- Right side -->
-          <pre align="left">import java.util.HashMap;
+          <pre align="left">
+          import java.util.HashMap;
+
           public class Main {
             public static void main(String[] args) {
               HashMap<String, String> aboutMe = new HashMap<String, String>();
+
               aboutMe.put("me", "educator", "creator", "programmer");
               aboutMe.put("backend", "Python", "Java");
               aboutMe.put("frontend", "JS", "HTML", "CSS", "React", "Vue");
               aboutMe.put("infra", "MongoDB");
               aboutMe.put("data", "SQL", "R", "Numpy", "Pandas");
               aboutMe.put("tool", "Linux", "Git);
+
               System.out.println(aboutMe);
             }
           }
