@@ -41,4 +41,42 @@
 </table>
 
 
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+<!-- Left side: Profile info -->
+<img src="/assets/imgs/descartesCode.jpg" alt="Profile Image" width="120"/><br>
+<span style="font-size:16px;">
+<strong>Hi, I'm Nicholas!</strong><br>
+🔭 Educator | Creator | Programmer<br>
+🌱 Backend: Python, Java<br>
+👯 Frontend: JS, React, Vue, HTML, CSS<br>
+📊 Infra: MongoDB<br>
+🤔 Data: SQL, SQLite, R, Pandas<br>
+💬 Tools: Linux, Git
+</span>
+</td>
+<td width="50%" align="left" valign="top">
+<!-- Right side: Left-aligned code -->
+<pre style="font-size:14px; line-height:1.4;">
+import java.util.HashMap;
+
+public class Main {
+public static void main(String[] args) {
+HashMap<String, String> aboutMe = new HashMap<>();
+aboutMe.put("me", "educator -- creator -- programmer");
+aboutMe.put("backend", "Python -- Java");
+aboutMe.put("frontend", "JS -- HTML -- CSS -- React -- Vue");
+aboutMe.put("infra", "MongoDB");
+aboutMe.put("data", "SQL -- R -- Numpy -- Pandas");
+aboutMe.put("tool", "Linux -- Git");
+System.out.println(aboutMe);
+}
+} </pre>
+
+</td>
+</tr>
+</table>
+
+
 
