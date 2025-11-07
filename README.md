@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-<head>
- <style>
-    @keyframes fadeInAnimation {
-        0% { opacity: 0; }
-        100% { opacity: 1; }
-    }
-    </style>
-</head>
 
 <div>
   <img src="/assets/imgs/pcScape.jpeg" alt="profile main" width="100%" height="35%" style="animation-name: fadeInAnimation; animation-duration: 3s;"/>
