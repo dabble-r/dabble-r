@@ -26,18 +26,34 @@ public class Main {
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
           <!-- Left side -->
       <img src="https://avatars.githubusercontent.com/u/9919?s=150&v=4" alt="Profile Image" width="120"/><br>
           **Hi, I'm Nicholas!**<br>
           🔭 Educator | Creator | Programmer<br>
-          🌱 Backend: Python, Java
+          🌱 Backend: Python, Java<br>
     </td>
-    <td width="50%" align="center" valign="middle">
-          <!-- Right side -->
+    <td width="30%" align="center" valign="middle">
+          <!-- Center -->
           👯 Frontend: JS, React, Vue, HTML, CSS<br>
           🤔 Data: SQL, SQLite, R, Pandas<br>
           💬 Tools: Linux, Git
+    </td>
+    <td width="30%" align="center" valign="middle">
+          <!-- Right side -->
+          import java.util.HashMap;<br>
+          public class Main {<br>
+            public static void main(String[] args) {<br>
+              HashMap<String, String> aboutMe = new HashMap<String, String>();<br>
+              aboutMe.put("me", "educator", "creator", "programmer");<br>
+              aboutMe.put("backend", "Python", "Java");<br>
+              aboutMe.put("frontend", "JS", "HTML", "CSS", "React", "Vue");<br>
+              aboutMe.put("infra", "MongoDB");<br>
+              aboutMe.put("data", "SQL", "R", "Numpy", "Pandas");<br>
+              aboutMe.put("tool", "Linux", "Git); <br>
+              System.out.println(aboutMe);<br>
+            }
+          }
     </td>
   </tr>
 </table>
