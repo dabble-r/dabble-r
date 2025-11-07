@@ -2,7 +2,7 @@
 
 
 <div style="border-radius:10px;">
-  <img src="/assets/imgs/pcScape.jpeg" alt="profile main" width="100%" height="35%" style="border-radius:15px;"/>
+  <img src="/assets/imgs/pcScape.jpeg" alt="profile main" width="100%" height="35%"/>
 </div>
 
 ## About me ...
