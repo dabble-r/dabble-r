@@ -39,7 +39,7 @@ public class Main {
     </td>
     <td width="50%" align="center" valign="middle" >
           <!-- Right side -->
-          <pre>import java.util.HashMap;
+          <pre align="left">import java.util.HashMap;
           public class Main {
             public static void main(String[] args) {
               HashMap<String, String> aboutMe = new HashMap<String, String>();
@@ -56,3 +56,6 @@ public class Main {
     </td>
   </tr>
 </table>
+
+
+
