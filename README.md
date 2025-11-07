@@ -19,7 +19,7 @@
           🤔  Data: SQL, SQLite, R, Pandas<br>
           💬  Tools: Linux, Git<br>
     </td>
-    <td width="50%" align="center" valign="middle" >
+    <td width="50%" align="center" valign="middle" style="font-size: 22px;">
           <!-- Right side -->
           <pre align="left">
           import java.util.HashMap;
