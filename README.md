@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <div style="border-radius:10px;">
   <img src="/assets/imgs/pcScape.jpeg" alt="profile main" width="100%" height="35%"/>
@@ -9,6 +7,8 @@
 
 <table width="100%" >
   <tr>
+    <td width="100%" align="center" valign="middle">## Hi there 👋<br>
+    </td>
     <td width="50%" align="center" valign="middle">
           <!-- Left side -->
       <img src="/assets/imgs/descartesCode.jpg" alt="Profile Image" width="120"/><br>
@@ -31,7 +31,7 @@
               aboutMe.put("frontend", "JS -- HTML -- CSS -- React -- Vue");
               aboutMe.put("infra", "MongoDB");
               aboutMe.put("data", "SQL -- R -- Numpy -- Pandas");
-              aboutMe.put("tool", "Linux -- Git);
+              aboutMe.put("tool", "Linux -- Git");
               System.out.println(aboutMe);
             }
           }
