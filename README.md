@@ -7,8 +7,6 @@
 
 <table width="100%" >
   <tr>
-  
-   
     <td width="50%" align="center" valign="middle">
           <!-- Left side -->
       <img src="/assets/imgs/descartesCode.jpg" alt="Profile Image" width="120"/><br>
